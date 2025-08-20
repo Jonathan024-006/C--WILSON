@@ -71,8 +71,7 @@ else
     Console.WriteLine("Valgo de rodilla severo.");
 } */
 
-/* // Ejercisio 4
-
+ // Ejercisio 4
 
 Console.WriteLine("Bienvenido al sistema bancario");
 double saldo = 500000;
@@ -134,5 +133,6 @@ while (!salir)
             Console.WriteLine("Opción no válida. Por favor, intente de nuevo.");
             break;
     }
-}*/
+}
+
 
