@@ -43,6 +43,74 @@ int b = int.Parse(Console.ReadLine(
 int resultado = a + b; // suma
 Console.WriteLine($"Resultado de la suma de a + b: {resultado}");
 
+// Array 
+/* string[] nombres = {"Ana", "Maria", "Jose", "Andres"};
+
+foreach (var nombre in nombres) {
+    Console.WriteLine(nombre);
+}
+ */
+
+
+// Lista 
+// List<string> nombres = new List<string>();
+
+// Llenar la lista
+// nombres.Capacity; // Características, en programación propiedad o atributo
+// nombres.Add(); // Acciones, en programación metodos o funciones
+
+/* nombres.Add("Ana");
+nombres.Add("Maria");
+nombres.Add("Jose");
+nombres.Add("Andres");
+
+foreach (string nombre in nombres) {
+    Console.WriteLine(nombre);
+}  */
+
+
+
+// Lista de números 
+/* List<int> numeros = new List<int>();
+
+anios.Add(2001);
+anios.Add(2010);
+anios.Add(2020);
+anios.Add(2024);
+
+
+foreach (int anio in anios) {
+    Console.Write($"{anio} - ");
+} */
+
+
+
+// Diccionario (sintaxis)
+/* Dictionary<tipo dato key, value> nombre_diccionario = new Dictionary<tipo dato key, value>()
+{
+    {"key", value},
+    {"key", value},
+    {"key", value}
+}; */
+
+
+/* Dictionary<int, string> lista_productos = new Dictionary<int, string>()
+{
+    {1, "Arroz"},
+    {2, "Frijoles"},
+    {3, "Carne"}
+};
+
+foreach (var producto in lista_productos) {
+    Console.WriteLine($"{producto.Key} - {producto.Value}");
+} */
+// sistema de stock de inventario
+
+/* 
+
+Dictionary<string, int> inventario = new Dictionary<string, int>();
+bool continuar = true;
+
 
 
 // 
@@ -93,7 +161,7 @@ Console.WriteLine($"Resultado de la suma de a + b: {resultado}");
         // Verifica si la entrada es numérica
         if (double.TryParse(entrada, out pesosColombianos))
         {
-            // Verifica que sea mayor a cero
+       
             if (pesosColombianos > 0)
             {
                 // Tasas de cambio aproximadas
