@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.sourcelink.json
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\bin\Debug\net9.0\oop_Herencia.exe
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\bin\Debug\net9.0\oop_Herencia.deps.json
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\bin\Debug\net9.0\oop_Herencia.runtimeconfig.json
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\bin\Debug\net9.0\oop_Herencia.dll
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\bin\Debug\net9.0\oop_Herencia.pdb
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.dll
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\refint\oop_Herencia.dll
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.pdb
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\oop_Herencia.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\CuartoTrimestre\Wilson\C#\oop_Herencia\obj\Debug\net9.0\ref\oop_Herencia.dll

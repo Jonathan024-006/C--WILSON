@@ -1,0 +1,15 @@
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.AssemblyInfo.cs
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.sourcelink.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\bin\Debug\net9.0\01_csharp_ejemplos.exe
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\bin\Debug\net9.0\01_csharp_ejemplos.deps.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\bin\Debug\net9.0\01_csharp_ejemplos.runtimeconfig.json
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\bin\Debug\net9.0\01_csharp_ejemplos.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\bin\Debug\net9.0\01_csharp_ejemplos.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\refint\01_csharp_ejemplos.dll
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.pdb
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\01_csharp_ejemplos.genruntimeconfig.cache
+C:\Users\Julian\OneDrive\Desktop\TRIMESTRE 3\C# WILSON\Trabajos\01_csharp_ejemplos\obj\Debug\net9.0\ref\01_csharp_ejemplos.dll
